@@ -51,8 +51,8 @@ The ABSA-FMI system and its accompanying documentation are officially registered
 - **Registration Number**: 001433941
 - **Application Number**: EC002026151383
 - **Registration Date**: August 21, 2026
-- **Authors**: Fajar Romadhan, Dr. Ari Muzakir, Dr. Usman Ependi
-- **Copyright Holder**: Fajar Romadhan
+- **Authors**: Fajar Romadhan, S.Kom, Dr. Ari Muzakir, S.Kom., M.Cs, Dr. Usman Ependi, S.Kom., M.Kom
+- **Copyright Holder**: Fajar Romadhan, S.Kom
 
 ---
 
@@ -60,7 +60,7 @@ The ABSA-FMI system and its accompanying documentation are officially registered
 
 The underlying research methodology and deep learning model architecture were presented at:
 
-> **Fajar Romadhan, Ari Muzakir, Usman Ependi, Andri**  
+> **Fajar Romadhan, S.Kom, Ari Muzakir, Usman Ependi, Andri**  
 > *"Attention-Enhanced Multi-Output LSTM for Multi-Aspect Sentiment Understanding in Indonesian Fashion Marketplace"*  
 > **The 9th IEEE International Conference on Vocational Education and Electrical Engineering (ICVEE 2026)**  
 > Presented on September 17, 2026. Paper ID: 1571298976.  
